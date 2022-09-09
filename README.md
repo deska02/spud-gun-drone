@@ -24,7 +24,10 @@ Parts I used:
 - Flysky FS-i6 radio with FS-ia6b receiver
 - 5000mAh li-poly battery
 - power distribution board (easier to assembly and modify than solder)
-After hours spent in the air I can honestly say, that all the parts are really reliable aside from flight controller.
+
+After hours spent in the air, I can honestly say that all the parts are reliable aside from the flight controller. 
+
+**Please remember to calibrate ESC before flight!**
 
 
 ## Spud gun
