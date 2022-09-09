@@ -2,7 +2,7 @@
 A potato gun mounted underneath a hexacopter with a remote igniter.
 Video:
 
-![tytul](/spud-gun-drone/photos/badge.png)
+![tytul](/photos/badge.png)
 
 ## Table of Contents
 * [General info](#general-info)
