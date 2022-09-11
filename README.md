@@ -1,3 +1,4 @@
+
 # Spud-gun-drone
 A potato gun mounted underneath a hexacopter with a remote igniter.
 
@@ -58,14 +59,14 @@ Total cannon length is 73cm. Screws are screwed in on opposite sides of the 50mm
 This was the easiest part. All parts you need are a relay and some zip-ties. I plugged the relay to free channel in receiver. Very important is to keep cannon's center of gravity in the middle of the drone. Total mass is 2,6kg.
 
 ## Ending
-I know there is still many things to do, but this is the end for me. I would really appreciate it if anyone wants to continue it. Please send video to me:)
+I know there are still many things to do, but this is the end for me. I would really appreciate it if anyone wants to continue it. Please send video to me:)
 
 ### Some problems to be solved:
-- low stabilty
-- poor response to radio comands (probably too heavy)
+- low stability
+- poor response to radio commands (probably too heavy)
 - no adjustment of barrel camber angle
 
 
 I had a great time with this project. Feel free to contact me if you have any questions.
-Youtube video is avaliable here: https://youtu.be/wASaAgc-jiA
+The Youtube video is available here:https://youtu.be/wASaAgc-jiA
 
