@@ -67,5 +67,5 @@ I know there is still many things to do, but this is the end for me. I would rea
 
 
 I had a great time with this project. Feel free to contact me if you have any questions.
-Youtube video is avaliable here:https://youtu.be/wASaAgc-jiA
+Youtube video is avaliable here: https://youtu.be/wASaAgc-jiA
 
