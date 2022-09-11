@@ -1,7 +1,7 @@
 # Spud-gun-drone
 A potato gun mounted underneath a hexacopter with a remote igniter.
 
-!(/photos/badge.png)
+![1](/photos/badge.png)
 
 ## Table of Contents
 * [General info](#general-info)
@@ -46,7 +46,7 @@ Parts I used:
 - old lighter with piezoelectric transducer (just for gun tests)
 - 15kv transformator, 3,7 battery and button
 
-!(/photos/badge2.png)
+![2](/photos/badge2.png)
 
 
 
