@@ -1,13 +1,16 @@
 # Spud-gun-drone
 A potato gun mounted underneath a hexacopter with a remote igniter.
 
+Youtube video: https://youtu.be/wASaAgc-jiA
+
 ![1](/photos/badge.png)
 
 ## Table of Contents
 * [General info](#general-info)
 * [Drone](#drone)
 * [Spud gun](#spud-gun)
-* [connection](#connection)
+* [Conflation](#conflation)
+* [Ending](#ending)
 
 ## General Info
 Firstly, all this project is for fun. Be careful and have fun!
@@ -28,7 +31,7 @@ Parts I used:
 Overall weight is about 2kg without additional stuff (no camera and gimbal) when thrust is 5,1kg. That means there is more than 1kg of free space available for the user.
 After hours spent in the air, I can honestly say that all the parts are reliable aside from the flight controller. 
 
-**Please remember to calibrate ESC before flight!**
+**Please remember to calibrate ESC before first flight!**
 
 Some photos are available here
 
@@ -44,12 +47,25 @@ Parts I used:
 - 2 screws 
 - duck tape
 - old lighter with piezoelectric transducer (just for gun tests)
-- 15kv transformator, 3,7 battery and button
+- 15kv transformer, 3,7 battery and button
+
+Total cannon length is 73cm. Screws are screwed in on opposite sides of the 50mm inspection near the cup. After many problems with 15kV transformer (probably too big gap between screws), I changed it to the 400kV one (visible in the photo).
 
 ![2](/photos/badge2.png)
 
 
-
 ## Connecting
-This was the easiest part. All parts you need are a relay and some zip-ties.
+This was the easiest part. All parts you need are a relay and some zip-ties. I plugged the relay to free channel in receiver. Very important is to keep cannon's center of gravity in the middle of the drone. Total mass is 2,6kg.
+
+## Ending
+I know there is still many things to do, but this is the end for me. I would really appreciate it if anyone wants to continue it. Please send video to me:)
+
+### Some problems to be solved:
+- low stabilty
+- poor response to radio comands (probably too heavy)
+- no adjustment of barrel camber angle
+
+
+I had a great time with this project. Feel free to contact me if you have any questions.
+Youtube video is avaliable here:https://youtu.be/wASaAgc-jiA
 
